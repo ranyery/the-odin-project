@@ -1,0 +1,2 @@
+# the-odin-project
+"There will be many times throughout The Odin Project that you will get stuck on a concept or a programming problem and may find yourself questioning your ability to learn programming. When you find yourself in this position, remind yourself that you may not get it yet but that with persistence and grit you will. Struggling with something is growth. It doesn’t matter how long you struggle with a concept or project; all that matters is that you have the grit and tenacity to see it through. That’s how real learning happens".
